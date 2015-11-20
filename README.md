@@ -2,4 +2,4 @@
 
 See: http://onlinehackathon.com  
 
-See also: http://onlinehackathon.github.io/ServiceRepo
+See also: http://onlinehackathon.github.io/Connection/
